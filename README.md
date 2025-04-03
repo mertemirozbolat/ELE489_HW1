@@ -37,11 +37,7 @@ cd wine-knn-project
 
 ### 2️⃣ Install dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
-> Alternatively, install manually:
+install manually:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
